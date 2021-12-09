@@ -18,3 +18,4 @@ Your implementation should support Member( ), Insert( ), and Delete( ) functions
 
 ***************************************************************************
 
+- to run the compiled files see the README.txt file.
