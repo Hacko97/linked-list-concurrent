@@ -8,12 +8,12 @@ Your implementation should support Member( ), Insert( ), and Delete( ) functions
 
 ******************* Commands to compile C files **************************
 1. Serial Linkedlist
-	gcc -g -Wall -o linkedlist_serial linkedlist_serial.c
+	- gcc -g -Wall -o linkedlist_serial linkedlist_serial.c
 
 2. Linked list with Mutex
-	gcc -g -Wall -o linkedlist_mutex linkedlist_mutex.c -lm -lpthread
+	- gcc -g -Wall -o linkedlist_mutex linkedlist_mutex.c -lm -lpthread
 
 3. Linked list with read write lock
-	gcc -g -Wall -o linkedlist_r_w_lock linkedlist_r_w_lock.c -lm -lpthread
+	- gcc -g -Wall -o linkedlist_r_w_lock linkedlist_r_w_lock.c -lm -lpthread
 
 ***************************************************************************
