@@ -17,3 +17,4 @@ Your implementation should support Member( ), Insert( ), and Delete( ) functions
 	- gcc -g -Wall -o linkedlist_r_w_lock linkedlist_r_w_lock.c -lm -lpthread
 
 ***************************************************************************
+
